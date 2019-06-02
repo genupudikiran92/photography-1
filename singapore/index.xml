@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Singapore on Man Parvesh&#39;s Photography</title>
+    <link>https://photos.manparvesh.com/singapore/</link>
+    <description>Recent content in Singapore on Man Parvesh&#39;s Photography</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 16 Sep 2018 19:07:17 +0300</lastBuildDate>
+    
+	<atom:link href="https://photos.manparvesh.com/singapore/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>

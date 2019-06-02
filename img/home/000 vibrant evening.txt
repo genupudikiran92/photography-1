@@ -1,0 +1,8 @@
+---
+top: 5
+left: 5
+width: 35
+height: 20
+textcolor: #ffffff
+---
+A small city in Punjab, India where I grew up and spent my first 18 years before heading out for college. I still visit my family there 2-3 times an year.
