@@ -1,0 +1,104 @@
+# Settings
+baseurl = "https://photos.manparvesh.com/"
+languageCode = "en-us"
+title = "Man Parvesh's Photography"
+theme = "phugo"
+googleAnalytics = "UA-79116900-1"
+publishDir = "../photography"
+
+[params]
+
+    # Meta
+    description = "Photography by Man Parvesh"
+    author = "manparvesh"
+    keywords = "phugo, photogallery, photoblog, photography, manparvesh"
+
+    # Headerbar links
+    # Do not put here too many links,
+    # it will break mobile appearance
+
+    [[params.header.links]]
+    name = "About"
+    url = "#footer"
+    icon = "fa-info-circle"
+
+    # Footer panel
+
+    [params.footer.paragraph]
+    headline = "Man Parvesh's Photography"
+    text = "Hey there! I am a Software Engineer working at Works Applications Co. Ltd., Singapore. I have had several opportunities to visit and live in beautiful places, and meet wonderful people. This website demonstrates my love for Photography and how I like to appreciate the beauty around me."
+
+    [params.footer.social]
+    headline = "Follow me"
+
+    # [[params.footer.social.links]]
+    # label = "Twitter"
+    # url = "#"
+    # icon = "fa-twitter"
+
+    [[params.footer.social.links]]
+    label = "Facebook"
+    url = "https://www.facebook.com/manparvesh"
+    icon = "fa-facebook"
+
+    [[params.footer.social.links]]
+    label = "Instagram"
+    url = "https://www.instagram.com/manparveshsr/"
+    icon = "fa-instagram"
+
+    [[params.footer.social.links]]
+    label = "Github"
+    url = "https://github.com/manparvesh"
+    icon = "fa-github"
+
+    # [[params.footer.social.links]]
+    # label = "Dribbble"
+    # url = "#"
+    # icon = "fa-dribbble"
+
+    [[params.footer.social.links]]
+    label = "LinkedIn"
+    url = "https://www.linkedin.com/in/manparvesh/"
+    icon = "fa-linkedin"
+
+    [[params.footer.social.links]]
+    label = "Website"
+    url = "https://manparvesh.com/"
+    icon = "fa-globe"
+
+    # Contact form
+
+    # Since this template is static, the contact form uses www.formspree.io as a
+    # proxy. The form makes a POST request to their servers to send the actual
+    # email. Visitors can send up to a 1000 emails each month for free.
+    #
+    # What you need to do for the setup?
+    #
+    # - set your email address under 'realEmail' below
+    # - upload the generated site to your server
+    # - send a dummy email yourself to confirm your account
+    # - click the confirm link in the email from www.formspree.io
+    # - you're done. Happy mailing!
+
+    [params.footer.contact]
+    realEmail = "manparveshsinghrandhawa@gmail.com"
+    headline = "Get in touch"
+    buttonText = "Send"
+    resetText = "Reset"
+
+    # 'warning' defines error messages for invalid inputs
+    [params.footer.contact.name]
+    text = "Name *"
+    warning = "Please, enter your name"
+
+    [params.footer.contact.email]
+    text = "Email *"
+    warning = "Please, enter your email."
+
+    [params.footer.contact.message]
+    text = "Message *"
+    warning = "Please, enter your message"
+
+    # Copyright
+    [params.footer.copyright]
+    name = "Man Parvesh Singh Randhawa"

@@ -1,0 +1,8 @@
+---
+top: 5
+left: 5
+width: 35
+height: 20
+textcolor: #ffffff
+---
+The place where I started my first job as a software engineer and stayed here for around 3 months (Oct-Dec '16) before leaving for Singapore.
